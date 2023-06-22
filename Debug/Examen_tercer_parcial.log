@@ -1,0 +1,5 @@
+﻿  Examen_tercer_parcial.cpp
+C:\Users\silve\OneDrive\Documentos\Examen_tercer_parcial\Examen_tercer_parcial.cpp(86,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\silve\OneDrive\Documentos\Examen_tercer_parcial\Examen_tercer_parcial.cpp(291,7): warning C4101: 'validation': variable local sin referencia
+C:\Users\silve\OneDrive\Documentos\Examen_tercer_parcial\Examen_tercer_parcial.cpp(115): warning C4715: 'humansymbol': no todas las rutas de acceso de control devuelven un valor
+  Examen_tercer_parcial.vcxproj -> C:\Users\silve\OneDrive\Documentos\Examen_tercer_parcial\Debug\Examen_tercer_parcial.exe
